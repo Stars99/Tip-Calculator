@@ -21,13 +21,11 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app functionality!
 # added color and background
 ## Video Walkthrough 
-
-![Tip Calculator](TipCalculator.gif)
-
 Here's a walkthrough of implemented user stories:
 
 <a href="/course_images/ios_for_designers/name%20of%20your%20file%20in%20the%20repo.gif" target="_blank"><img src='/course_images/ios_for_designers/name%20of%20your%20file%20in%20the%20repo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /></a>
 
+![Tip Calculator](TipCalculator.gif)
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
