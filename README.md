@@ -22,7 +22,7 @@ The following **additional** features are implemented:
 # added color and background
 ## Video Walkthrough 
 
-![Tip Calculator](Tip Calculator.gif)
+![Tip Calculator](TipCalculator.gif)
 
 Here's a walkthrough of implemented user stories:
 
